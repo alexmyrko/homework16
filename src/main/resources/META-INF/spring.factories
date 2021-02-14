@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+myrko.homework16.autoconfiguration.AutoconfigurationByPropertyValue,\
+myrko.homework16.autoconfiguration.ConditionalOnClassAutoconfiguration
